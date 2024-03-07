@@ -1,1 +1,2 @@
 # Restaurant-Analysis---Microsoft-Excel-365
+My project involves analyzing restaurant data to identify key trends and patterns. The analysis includes determining the city with the highest number of restaurants, the city with the highest average rating, and common cuisine combinations. Additionally, I explore the correlation between the number of votes and restaurant ratings, as well as the relationship between price range and the availability of online delivery and table booking services.
